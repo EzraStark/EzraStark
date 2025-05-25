@@ -34,7 +34,3 @@ Masih belajar, masih mencoba, dan selalu berkembang.
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/EzraStark/EzraStark/output/snake.svg" alt="Snake animation" />
-
-###
